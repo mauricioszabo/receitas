@@ -33,6 +33,6 @@
 * Deixe essa mistura cozinhar até fazer um molho bem grosso. Tampe a panela porque o molho costuma borbulhar
   * Vá mexendo de vez em quando, para evitar o molho de grudar na panela
 * Se optar por usar queijo de colaho, corte-o em cubos e misture no molho quando ele estiver quase no ponto desejado (ou seja, ele está quase bem grosso, mas ainda precisa apurar um pouco)
-** É importante que o queijo de coalho não derreta plenamente.
+  * É importante que o queijo de coalho não derreta plenamente.
 * Quando o molho estiver bem apurado, abaixe o fogo e misture o Requeijão e o Creme de Leite
 * Mexa até dar a consistência desejada.
